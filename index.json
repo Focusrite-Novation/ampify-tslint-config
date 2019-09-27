@@ -14,7 +14,8 @@
         "interface-name":false,
         "no-empty": [true, "allow-empty-functions"],
         "ordered-imports": false,
-        "whitespace": [true, "single"]
+        "whitespace": [true, "single"],
+        "indent": [true, "spaces", 2]
     },
     "rulesDirectory": []
 }
