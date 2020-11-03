@@ -15,7 +15,8 @@
         "no-empty": [true, "allow-empty-functions"],
         "ordered-imports": false,
         "whitespace": [true, "single"],
-        "indent": [true, "spaces", 2]
+        "indent": [true, "spaces", 2],
+        "file-name-casing": [true, { ".tsx": "pascal-case", ".ts": "kebab-case" }]
     },
     "rulesDirectory": []
 }
